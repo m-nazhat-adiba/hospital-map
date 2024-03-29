@@ -1,35 +1,14 @@
 # hospital-map
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is built with Vue 3 + Express
+(I need to built a local server because the HOSPITAL LOCATION API gave me CORS error)
 
-## Recommended IDE Setup
+# To run the project
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+1. npm install
+2. run the local server with command node server.js
+3. npm run dev
 
-## Customize configuration
+# Requirement
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Node.js: 20.11.1
